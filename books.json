@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1761291686711,
+        "title": "Harry Potter",
+        "author": "J. K. Rowling",
+        "price": 2500.0,
+        "category": "Fantasy",
+        "district": "Colombo",
+        "seller": "Nitharshana",
+        "sold": true
+    },
+    {
+        "id": 1761291868519,
+        "title": "Silent Spring",
+        "author": "Rachel Carson",
+        "price": 3000.0,
+        "category": "Science",
+        "district": "Matara",
+        "seller": "Nitharshana",
+        "sold": true
+    },
+    {
+        "id": 1761378159750,
+        "title": "raamayanam",
+        "author": "vaalmehi",
+        "price": 10000.0,
+        "category": "devine",
+        "district": "jaffna",
+        "seller": "suja",
+        "sold": true
+    }
+]

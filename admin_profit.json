@@ -1,0 +1,25 @@
+{
+    "total_profit": 1800.0,
+    "transactions": [
+        {
+            "book": "Harry Potter",
+            "seller": "Nitharshana",
+            "commission": 250.0
+        },
+        {
+            "book": "Harry Potter",
+            "seller": "Nitharshana",
+            "commission": 250.0
+        },
+        {
+            "book": "Silent Spring",
+            "seller": "Nitharshana",
+            "commission": 300.0
+        },
+        {
+            "book": "raamayanam",
+            "seller": "suja",
+            "commission": 1000.0
+        }
+    ]
+}

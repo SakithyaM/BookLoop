@@ -1,0 +1,30 @@
+{
+    "admin": {
+        "password":"admin123",
+        "role": "admin"
+    },
+    "Sakithya": {
+        "password": "Sakithya@19",
+        "role": "buyer"
+    },
+    "Nitharshana": {
+        "password": "Nitharshana@19",
+        "role": "seller"
+    },
+    "sakithya": {
+        "password": "sakithya",
+        "role": "buyer"
+    },
+    "koll": {
+        "password": "koll1223",
+        "role": "buyer"
+    },
+    "suja": {
+        "password": "suja10",
+        "role": "seller"
+    },
+    "": {
+        "password": "",
+        "role": "buyer"
+    }
+}
